@@ -8,5 +8,3 @@
 <h1 align="left">Currently Learning</h1>
 <img src="https://skillicons.dev/icons?i=css,js,laravel"/>
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/coralzaa?igsh=MWw3ODF2cnJ4eTN3ZQ==) 
